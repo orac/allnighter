@@ -3,5 +3,6 @@ allnighter.otf: allnighter.sfd
 
 install: allnighter.otf
 	cp $< ~/.fonts
+	fc-cache -f
 
 .PHONY: install
