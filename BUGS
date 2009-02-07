@@ -1,11 +1,20 @@
+“ ” could be better
+¬ needs a bigger hook
+6 and 9 are too square
 Needs more glyphs:
   full Latin-1 coverage
-  all arrows
-  superscripts and subscripts
+  Euro sign
+  superscripts and subscripts (digits and symbols)
+  more arrows
+  tall bracketing chars and semantic brackets
+  number forms U+2153–2184 (not that important but easy)
+  box drawing and block elements
+  ≔ and ⩴
   turnstiles
   ringed and bracketed alnums
   Greek
-  logical and set theoretic symbols ∧∨∀∃
+  logical and set theoretic symbols ∧∨≡ etc.
+  enclosed alnums U+2460–U+24b5 (if nothing else alias them to the plain alnums)
 check for printability
 doesn't look good at 12pt
 could be more readable at 8pt
