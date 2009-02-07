@@ -1,0 +1,10 @@
+~
+doesn't look good at 12pt
+could be more readable at 8pt
+fontconfig insists on substituting from an unsuitable font
+rasterisation of ░▒▓ could be better
+Needs more glyphs:
+  “”‘’…–—
+  full Latin-1 coverage
+check for printability
+add bold/italic
