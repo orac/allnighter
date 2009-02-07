@@ -1,10 +1,14 @@
-~
+Needs more glyphs:
+  full Latin-1 coverage
+  all arrows
+  superscripts and subscripts
+  turnstiles
+  ringed and bracketed alnums
+  Greek
+  logical and set theoretic symbols ∧∨∀∃
+check for printability
 doesn't look good at 12pt
 could be more readable at 8pt
-fontconfig insists on substituting from an unsuitable font
 rasterisation of ░▒▓ could be better
-Needs more glyphs:
-  “”‘’…–—
-  full Latin-1 coverage
-check for printability
+fontconfig insists on substituting from an unsuitable font
 add bold/italic
