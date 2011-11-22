@@ -1,6 +1,8 @@
 “ ” could be better
 ¬ needs a bigger hook
-6 and 9 are too square
+6 9 O o are too square
+w is asymmetric on some renderers at some sizes (12pt?)
+fix asymmetric J
 Needs more glyphs:
   full Latin-1 coverage
   Euro sign
